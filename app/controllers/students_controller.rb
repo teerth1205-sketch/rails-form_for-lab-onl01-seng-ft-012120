@@ -5,6 +5,8 @@ class Students < ApplicationController
   
   def create 
     
+  end 
+    
   
   
 end 
